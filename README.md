@@ -1,0 +1,1 @@
+This project features an animated sandwich with various layers of ingredients, showcasing intricate CSS animations and hover effects.
